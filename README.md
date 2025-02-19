@@ -1,7 +1,5 @@
 # Fine_Tuned_Bertopic
 
-## Introduction:
-
 The following project is an example of how Bertopic can be tuned to optimize the process by understanding the fundamental aspects of its different components, achieving better results.
 
 BERTopic is a topic modeling technique that leverages transformers and c-TF-IDF to create dense clusters allowing for easily interpretable topics whilst keeping important words in the topic descriptions. 
