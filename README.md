@@ -6,7 +6,9 @@ BERTopic is a topic modeling technique that leverages transformers and c-TF-IDF 
 
 ## Data:
 The data used is the Womens Clothing E-Commerce Reviews dataset which includes reviews written by customers. It can be found in the following link:
+
 https://www.kaggle.com/code/nicapotato/guided-numeric-and-text-exploration-e-commerce/notebook
+
 
 ## Requirements:
 
